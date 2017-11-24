@@ -1,0 +1,13 @@
+{
+  "lists": {
+    "default": {
+      "quotes": [["'", "\""]]
+    },
+    "source.js": {
+      "quotes": [["'", "\"", "`"]]
+    },
+    "source.html": {
+      "quotes": [["'", "\"", "`"]]
+    },
+  }
+}

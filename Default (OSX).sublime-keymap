@@ -1,0 +1,12 @@
+[
+    {
+        "keys": ["ctrl+shift+r"], "command": "browser_refresh", "args": {
+            "auto_save": true,
+            "delay": 0,
+            "activate_browser": true,
+            "browser_name" : "chrome"
+        }
+    },
+    { "keys": ["ctrl+shift+'"], "command": "change_quotes" },
+    { "keys": ["ctrl+h"], "command": "dash_doc"}
+]
